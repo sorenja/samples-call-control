@@ -1,0 +1,19 @@
+body {
+  font-family: sans-serif;
+  background-color: #151515;
+  color: #fff;
+}
+
+a {
+  color: #ffd100;
+}
+
+button {
+  margin: 0 5px 5px 0;
+  width: 150px;
+}
+
+#log {
+  margin-top: 25px;
+  color: #ffd100;
+}
